@@ -1,0 +1,2 @@
+# Radxa-Cubie-A7A-12gb-DDR5-
+3 TOPS NPU , OCTA CORE .ALLWINNER
